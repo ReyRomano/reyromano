@@ -1,9 +1,13 @@
 <!--  ## Hi there 👋  -->
 
 ## 👋 Hola, mi nombre es Rey Romano 👋
-# Front End Developer Angular
+**Front End Developer Angular**
 
 Soy ingeniero de Software especializado en el framework Angular
+
+### Contáctame:
+
+- rod.romano.rey@gmail.com
 
 <!--
 **ReyRomano/reyromano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
